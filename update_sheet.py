@@ -15,7 +15,7 @@ from google.auth.transport.requests import Request
 SHEET_ID = "1RN9qviprW8eCBz5BuftKyi_UqxDx3a-1NjjqVv2Fklw"
 WORKSHEET_NAME = "Rista_Business_Level_New_Last_24_months"
 
-REDASH_URL = os.getenv("REDASH_queries_10726")
+REDASH_URL = os.getenv("RESDAH_QUERIES_10726")
 
 # ============================================================
 # Download CSV
